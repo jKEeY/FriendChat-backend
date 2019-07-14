@@ -1,1 +1,1 @@
-# FriendChat-server
+# FriendChat-backend
